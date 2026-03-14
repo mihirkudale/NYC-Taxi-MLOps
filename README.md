@@ -20,7 +20,7 @@ pip install -e .
 dvc repro
 ```
 
-## CI/CD through GitHub Acti ons
+## CI/CD through GitHub Actions
 
 The CI/CD workflow will throw an error while creating the CML report because no Personal Access Token is linked to the repository for safety purposes.
 
